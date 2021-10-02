@@ -1,7 +1,10 @@
 <template>
   <div class="home">
     <h1>Homepage</h1>
-    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptas consequatur doloremque quas? Corporis aliquam cumque aut, blanditiis magnam fugit corrupti quaerat distinctio maxime iure quam adipisci expedita id provident laborum?</p>
+    <v-btn  class="purple white--text">
+      <v-icon left>mail  </v-icon> 
+      <span>email me</span>
+      </v-btn>
   </div>
 </template>
 
