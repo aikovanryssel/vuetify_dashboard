@@ -8,4 +8,7 @@ export default new Vuetify({
     icons: {
         iconfont: 'md',
       },
+      theme:{
+        primary:'#00000',
+      }
 });
